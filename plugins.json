@@ -1,0 +1,570 @@
+[
+    {
+        "iconUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions/raw/icons/Icons/AllAnime.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AllAnimeProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allmoviesforyou.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AllMoviesForYouProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYouProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniflix.pro&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AniflixProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AniflixProvider.cs3",
+        "name": "AniflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflick.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeFlickProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AnimeFlickProvider.cs3",
+        "name": "AnimeFlickProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animekisa.in&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 0,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimekisaProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AnimekisaProvider.cs3",
+        "name": "AnimekisaProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 0,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimePaheProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AnimePaheProvider.cs3",
+        "name": "AnimePaheProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.app&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AsiaFlixProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/AsiaFlixProvider.cs3",
+        "name": "AsiaFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "version": 1,
+        "internalName": "BflixProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/BflixProvider.cs3",
+        "name": "BflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "EjaTv",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/EjaTv.cs3",
+        "name": "EjaTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gogoanime.lu&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "GogoanimeProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDMProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/HDMProvider.cs3",
+        "name": "HDMProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "IHaveNoTvProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/IHaveNoTvProvider.cs3",
+        "name": "IHaveNoTvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "KawaiifuProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/KawaiifuProvider.cs3",
+        "name": "KawaiifuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "KimCartoonProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=melomovie.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MeloMovieProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/MeloMovieProvider.cs3",
+        "name": "MeloMovieProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "NginxProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/NginxProvider.cs3",
+        "name": "NginxProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=9anime.id&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NineAnimeProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=olgply.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "OlgplyProvider",
+        "description": "Uses TMDB",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SflixProvider",
+        "description": "Also includes Dopebox, Solarmovie, Zoro and 2embed",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/SuperStream/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "SuperStream",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tenshi.moe&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "TenshiProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/TenshiProvider.cs3",
+        "name": "TenshiProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=theflix.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TheFlixToProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trailers.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon",
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "TrailersTwoProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VidSrcProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VidstreamBundle",
+        "description": "Includes many providers with the same layout as Vidstream",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.vmovee.watch&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VMoveeProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Cartoon",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "WatchCartoonOnlineProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AbdullahM0hamed/cloudstream-extensions",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "WcofunProvider",
+        "url": "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/WcofunProvider.cs3",
+        "name": "WcofunProvider"
+    }
+]
