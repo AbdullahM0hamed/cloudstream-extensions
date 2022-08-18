@@ -1,0 +1,8 @@
+{
+    "name": "English providers repository",
+    "description": "Cloudstream English Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/builds/plugins.json"
+    ]
+}
