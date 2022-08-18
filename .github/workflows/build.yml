@@ -9,11 +9,10 @@ on:
   push:
     branches:
       # choose your default branch
-      - master
+      - *
       # - main
     paths-ignore:
       - '*.md'
-  [pull-request]
 
 jobs:
   build:
