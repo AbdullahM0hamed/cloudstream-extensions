@@ -22,5 +22,5 @@ cloudstream {
         "Anime",
     )
 
-    iconUrl = "https://raw.githubusercontent.com/AbdullahM0hamed/cloudstream-extensions/master/Icons/AllAnime.png"
+    iconUrl = "https://github.com/AbdullahM0hamed/cloudstream-extensions/raw/icons/Icons/AllAnime.png"
 }
